@@ -1,4 +1,4 @@
-# Python client-server hackable program
+# pyhton-client-server
 
 This is a damn vulnerable application to handle tickets.
 It for no apparent reason will have built in ability to remotely write and execute
